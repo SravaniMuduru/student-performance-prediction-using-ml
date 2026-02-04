@@ -1,25 +1,26 @@
-🎓 Student Performance Prediction using Machine Learning
-📌 Project Overview
+#🎓 Student Performance Prediction using Machine Learning
+
+##📌 Project Overview
 
 This project focuses on predicting student academic performance based on factors such as study time, previous grades, and absences using Machine Learning techniques. The goal is to analyze student data and build a regression model that can accurately predict a student’s final grade.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 Educational institutions often struggle to identify students who may need academic support at an early stage. By analyzing historical student data, this system predicts student performance and helps enable timely academic intervention.
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Programming Language: Python
 
 Libraries:
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Scikit-learn
+- Scikit-learn
 
 Algorithm: Linear Regression
 
@@ -27,7 +28,7 @@ IDE: VS Code
 
 Platform: GitHub
 
-📂 Dataset
+## 📂 Dataset
 
 Student Performance Dataset
 
@@ -35,37 +36,37 @@ Total Records: 395
 
 Total Features: 33
 
-🔑 Selected Features
+## 🔑 Selected Features
 
-Study Time
+- Study Time
 
-Absences
+- Absences
 
-First Period Grade (G1)
+- First Period Grade (G1)
 
-Second Period Grade (G2)
+- Second Period Grade (G2)
 
-🎯 Target Variable
+## 🎯 Target Variable
 
-Final Grade (G3)
+- Final Grade (G3)
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
-Data loading and exploration
+- Data loading and exploration
 
-Data preprocessing
+- Data preprocessing
 
-Feature selection
+- Feature selection
 
-Train–test split
+- Train–test split
 
-Model training
+- Model training
 
-Model evaluation
+- Model evaluation
 
-Performance analysis
+- Performance analysis
 
-📊 Model Evaluation
+## 📊 Model Evaluation
 
 The model was evaluated using standard regression metrics:
 
@@ -78,15 +79,15 @@ These results indicate that the model performs well in predicting student academ
 ## 📸 Project Output Screenshots
 
 ### 🔹 Model Training Output
-![Model Training Output](images/output1.png)
+![Model Training Output](images/fig1.png)
 
 ### 🔹 Model Evaluation Metrics
-![Model Evaluation](images/output2.png)
+![Model Evaluation](images/fig2.png)
 
 ### 🔹 Final Prediction Result
-![Final Prediction](images/output3.png)
+![Final Prediction](images/fig3.png)
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 1.Clone the repository
 git clone https://github.com/your-username/Student-Performance-Prediction-AIML.git
@@ -98,12 +99,12 @@ pip install -r requirements.txt
 python train.py
 python train.py
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
-Implement advanced models (Random Forest, XGBoost)
+- Implement advanced models (Random Forest, XGBoost)
 
-Add detailed data visualization graphs
+- Add detailed data visualization graphs
 
-Build a web interface using Flask or Streamlit
+- Build a web interface using Flask or Streamlit
 
-Include additional student behavioral features
+- Include additional student behavioral features
