@@ -1,6 +1,6 @@
-#🎓 Student Performance Prediction using Machine Learning
+# 🎓 Student Performance Prediction using Machine Learning
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on predicting student academic performance based on factors such as study time, previous grades, and absences using Machine Learning techniques. The goal is to analyze student data and build a regression model that can accurately predict a student’s final grade.
 
@@ -90,13 +90,19 @@ These results indicate that the model performs well in predicting student academ
 ## ▶️ How to Run the Project
 
 1.Clone the repository
+
 git clone https://github.com/your-username/Student-Performance-Prediction-AIML.git
+
 2.Navigate to the project folder
+
 cd Student-Performance-Prediction-AIML
+
 3.Install dependencies
+
 pip install -r requirements.txt
+
 4.Run the training script
-python train.py
+
 python train.py
 
 ## 📈 Future Enhancements
